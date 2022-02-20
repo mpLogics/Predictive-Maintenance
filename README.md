@@ -16,7 +16,7 @@ The damage accumulation thus calculated will be used to predict the wear and tea
 This process is advantegous considering the outcome _tends to no downtime_ with the machine and productivity increases.
 
 This Repo also contains a **SAM(Student Activity Management) Scheduler**. 
-It helps in finding a slot for people who want to work on a particular machine. It takes the following inputs:
+It helps in finding a slot for students/staff who want to work on a particular machine. It takes the following inputs:
 - Number of projects required to be done on the machine, with the project names obviously
 - Time required by each project
 - Deadline for each project
